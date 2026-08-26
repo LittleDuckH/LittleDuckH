@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Demo](gif/test1.gif)
+
 <!--
 **LittleDuckH/LittleDuckH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
