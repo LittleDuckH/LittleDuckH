@@ -4,19 +4,26 @@
 ![Demo](gif/test1.gif)
 -->
 
-<p align="left">
-  <!-- margin-right: 35px 用来拉开 GIF 和右侧文字的距离，width="220" 用来缩放图片 -->
-  <img src="gif/test1.gif" width="220" align="left" style="margin-right: 135px; margin-bottom: 20px;" />
-</p>
-
-<h3>🛠️ 关于我 / About Me</h3>
-
-* 💻 专注于 **计算机视觉 (Computer Vision)** 与 **3D 生物医学图像处理**
-* 🔬 擅长处理 **大规模组织成像算法、3D 渲染与管线开发**
-* 🛠️ 熟练使用 `Python` | `C++` | `PyTorch` | `OpenCV` | `Qt` | `ROS`
-* 🎯 热衷于开源探索与交互式 3D 视觉工具构建
-
-<br clear="both" />
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- 左侧 GIF 区域 -->
+    <td width="220" align="center" valign="middle" style="border: none;">
+      <img src="gif/test1.gif" width="200" />
+    </td>
+    <!-- 中间空白隔离列：改变 width="50" 可以随意拉大/缩小左右间距 -->
+    <td width="50" style="border: none;"></td>
+    <!-- 右侧文字区域 -->
+    <td valign="middle" style="border: none;">
+      <h3>🛠️ 关于我 / About Me</h3>
+      <ul>
+        <li>💻 专注于 <b>计算机视觉 (Computer Vision)</b> 与 <b>3D 生物医学图像处理</b></li>
+        <li>🔬 擅长处理 <b>大规模组织成像算法、3D 渲染与管线开发</b></li>
+        <li>🛠️ 熟练使用 <code>Python</code> | <code>C++</code> | <code>PyTorch</code> | <code>OpenCV</code> | <code>Qt</code> | <code>ROS</code></li>
+        <li>🎯 热衷于开源探索与交互式 3D 视觉工具构建</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### 🧰 技术栈 / Tech Stack
 
