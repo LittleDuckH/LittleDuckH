@@ -11,6 +11,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔬 擅长处理 <b>大规模组织成像算法、3D 渲染与管线开发</b><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ 熟练使用 <code>Python</code> | <code>C++</code> | <code>PyTorch</code> | <code>OpenCV</code> | <code>Qt</code> | <code>ROS</code><br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 热衷于开源探索与交互式 3D 视觉工具构建
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📫 Email: <a href="mailto:zhangsan414141@gmail.com">zhangsan414141@gmail.com</a>
+
 </p>
 
 <br clear="both" />
@@ -34,6 +36,13 @@
 ### 📊 GitHub 统计 / Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true)
+
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDuckH&layout=compact" height="165" />
+</p>
 
 
 <!--
