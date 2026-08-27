@@ -6,7 +6,7 @@
 
 <p align="left">
   <!-- margin-right: 35px 用来拉开 GIF 和右侧文字的距离，width="220" 用来缩放图片 -->
-  <img src="gif/test1.gif" width="220" align="left" style="margin-right: 35px; margin-bottom: 20px;" />
+  <img src="gif/test1.gif" width="220" align="left" style="margin-right: 135px; margin-bottom: 20px;" />
 </p>
 
 <h3>🛠️ 关于我 / About Me</h3>
