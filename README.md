@@ -1,4 +1,5 @@
-<<h1 align="center">Hi, I'm LittleDuckH 👋</h1>
+```html
+<h1 align="center">Hi, I'm LittleDuckH 👋</h1>
 
 <p align="center">
   📷 <b>Computer Vision</b>
@@ -10,16 +11,16 @@
 
 ---
 
-<table>
+<table align="center" width="90%">
 <tr>
 
-<td width="30%" valign="top" align="center">
+<td width="34%" valign="middle" align="center">
 
-<img src="gif/test1.gif" width="220" />
+<img src="gif/test1.gif" width="260" />
 
 </td>
 
-<td width="70%" valign="top">
+<td width="66%" valign="middle">
 
 <h2>🛠️ 关于我 / About Me</h2>
 
@@ -29,7 +30,7 @@
 </p>
 
 <p>
-🔬 熟悉大规模组织理论算法、3D 渲染与图像处理框架开发。<br>
+🔬 熟悉大规模组织图像处理算法、3D 渲染与图像处理框架开发。<br>
 🎯 热衷于开源探索与水资源 3D 可视化工具构建。<br>
 🚀 关注算法、工程实现与交互式可视化工具的结合。
 </p>
@@ -44,7 +45,8 @@
 </p>
 
 <p>
-📧 <a href="mailto:zhangsan414141@gmail.com">
+📧 &nbsp;<b>Email:</b>&nbsp;
+<a href="mailto:zhangsan414141@gmail.com">
 zhangsan414141@gmail.com
 </a>
 </p>
@@ -56,7 +58,7 @@ zhangsan414141@gmail.com
 
 ---
 
-<table>
+<table align="center" width="90%">
 <tr>
 
 <td width="33%" valign="top">
@@ -65,27 +67,27 @@ zhangsan414141@gmail.com
 
 <br>
 
-📷 **计算机视觉**  
+📷 <b>计算机视觉</b>
 
-<br>
+<br><br>
 
-🧊 **3D 生物医学图像处理**  
+🧊 <b>3D 生物医学图像处理</b>
 
-<br>
+<br><br>
 
-🔬 **大规模组织图像处理与分析**
+🔬 <b>大规模组织图像处理与分析</b>
 
-<br>
+<br><br>
 
-🖥️ **3D 渲染与可视化**
+🖥️ <b>3D 渲染与可视化</b>
 
-<br>
+<br><br>
 
-💻 **图像处理与算法开发**
+💻 <b>图像处理与算法开发</b>
 
-<br>
+<br><br>
 
-🐙 **开源探索与工具开发**
+🐙 <b>开源探索与工具开发</b>
 
 </td>
 
@@ -96,28 +98,28 @@ zhangsan414141@gmail.com
 
 <br>
 
-**💻 编程语言**
+<b>💻 编程语言</b>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-**🧠 深度学习 / CV**
+<b>🧠 深度学习 / CV</b>
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-**🛠️ 开发框架**
+<b>🛠️ 开发框架</b>
 
 <p>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
 </p>
 
-**⚙️ 工具与平台**
+<b>⚙️ 工具与平台</b>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -133,59 +135,180 @@ zhangsan414141@gmail.com
 
 <br>
 
-💧 **水资源三维可视化工具开发**
+💧 <b>水资源三维可视化工具开发</b>
 
-<br>
+<br><br>
 
-🧠 **大规模生物组织图像处理算法**
+🧠 <b>大规模生物组织图像处理算法</b>
 
-<br>
+<br><br>
 
-🧊 **交互式 3D 渲染与图像处理框架**
+🧊 <b>交互式 3D 渲染与图像处理框架</b>
 
-<br>
+<br><br>
 
-🔗 **基于深度学习的图像分析方法**
+🔗 <b>基于深度学习的图像分析方法</b>
 
-<br>
+<br><br>
 
-🐙 **开源项目与工具链构建**
+🐙 <b>开源项目与工具链构建</b>
 
 </td>
 
 </tr>
 </table>
 
-<table>
+---
+
+## 🚀 精选项目 / Featured Projects
+
+<table align="center" width="90%">
 <tr>
 
-<td width="45%" valign="top">
+<td width="33%" valign="top">
 
-<h3>✉️ 联系我 / Contact</h3>
+<h3>🧊 3D Biomedical Imaging</h3>
 
-📧 **Email**
+<p>
+大规模生物医学图像数据的处理、分析与三维重建。
+</p>
 
-<a href="mailto:zhangsan414141@gmail.com">
-zhangsan414141@gmail.com
-</a>
+<b>Tech</b>
 
-<br><br>
-
-🐙 **GitHub**
+<p>
+<code>Python</code>
+<code>C++</code>
+<code>OpenCV</code>
+<code>PyTorch</code>
+</p>
 
 <a href="https://github.com/LittleDuckH">
-@LittleDuckH
+查看项目 →
 </a>
 
 </td>
+
+
+<td width="34%" valign="top">
+
+<h3>🎨 Interactive 3D Visualization</h3>
+
+<p>
+面向科学计算与生物医学图像的交互式三维可视化工具。
+</p>
+
+<b>Tech</b>
+
+<p>
+<code>C++</code>
+<code>Qt</code>
+<code>OpenGL</code>
+<code>VTK</code>
+</p>
+
+<a href="https://github.com/LittleDuckH">
+查看项目 →
+</a>
+
+</td>
+
+
+<td width="33%" valign="top">
+
+<h3>🧠 Computer Vision</h3>
+
+<p>
+图像分割、检测、特征提取与深度学习方法研究。
+</p>
+
+<b>Tech</b>
+
+<p>
+<code>Python</code>
+<code>PyTorch</code>
+<code>OpenCV</code>
+</p>
+
+<a href="https://github.com/LittleDuckH">
+查看项目 →
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔄 开发流程 / Workflow
+
+<p align="center">
+
+<code>📁 Data</code>
+
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<code>⚙️ Preprocessing</code>
+
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<code>🧠 Algorithm</code>
+
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<code>🧊 3D Processing</code>
+
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<code>🖥️ Visualization</code>
+
+&nbsp;&nbsp; ➜ &nbsp;&nbsp;
+
+<code>🛠️ Application</code>
+
+</p>
+
+<p align="center">
+从数据处理到算法实现，再到 3D 可视化与完整工具开发。
+</p>
+
+---
+
+<table align="center" width="90%">
+<tr>
+
+<td width="45%" valign="middle">
+
+<h3>✉️ 联系我 / Contact</h3>
+
+<p>
+📧 &nbsp;<b>Email:</b>&nbsp;
+<a href="mailto:zhangsan414141@gmail.com">
+zhangsan414141@gmail.com
+</a>
+</p>
+
+<p>
+🐙 &nbsp;<b>GitHub:</b>&nbsp;
+<a href="https://github.com/LittleDuckH">
+@LittleDuckH
+</a>
+</p>
+
+</td>
+
 
 <td width="55%" valign="middle">
 
 <h3>💬</h3>
 
-> **用代码探索世界，用可视化理解复杂。**
-
-> *Explore the world with code, understand the complex with visualization.*
+<blockquote>
+<b>用代码探索世界，用可视化理解复杂。</b>
+<br><br>
+<i>
+Explore the world with code, understand the complex with visualization.
+</i>
+</blockquote>
 
 </td>
 
@@ -195,33 +318,11 @@ zhangsan414141@gmail.com
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting!</b> &nbsp; Have a nice day! ✨
+  ⭐ <b>Thanks for visiting!</b>
+  &nbsp; Have a nice day! ✨
 </p>
 
 <p align="center">
   <i>Keep exploring. Keep building. 🚀</i>
 </p>
-
-<p align="center">
-  ⭐ <b>Thanks for visiting!</b> &nbsp; Have a nice day! ✨
-</p>
-
-<p align="center">
-  <i>Keep exploring. Keep building. 🚀</i>
-</p>
-
-
-<!--
-**LittleDuckH/LittleDuckH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
