@@ -33,7 +33,7 @@ Focused on <b>Computer Vision</b> and
 
 <p>
 🔬 Experienced in large-scale tissue image processing algorithms, 3D rendering, and image processing framework development.<br>
-🎯 Passionate about open-source exploration and 3D visualization tool development for water resources.<br>
+🎯 Passionate about open-source exploration and 3D visualization tool development for medical resources.<br>
 🚀 Interested in the integration of algorithms, engineering implementation, and interactive visualization tools.
 </p>
 
@@ -173,7 +173,7 @@ zhangsan414141@gmail.com
 
 <h3 align="center">🚀 Currently Working On</h3>
 <br>
-💧 <b>3D Visualization Tool Development for Water Resources</b>
+💧 <b>3D Visualization Tool Development for medical Resources</b>
 <br><br>
 🧠 <b>Large-Scale Biological Tissue Image Processing Algorithms</b>
 <br><br>
