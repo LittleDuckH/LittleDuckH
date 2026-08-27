@@ -11,7 +11,7 @@
 
 ---
 
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
 
 <td width="34%" valign="middle" align="center">
