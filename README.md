@@ -1,4 +1,6 @@
+```html
 <h1 align="center">Hi, I'm LittleDuckH 👋</h1>
+
 
 <p align="center">
   Welcome to my GitHub Profile!<br>
@@ -22,17 +24,17 @@
 
 <td width="66%" valign="middle">
 
-<h2>🛠️ 关于我 / About Me</h2>
+<h2>🛠️ About Me</h2>
 
 <p>
-专注于 <b>计算机视觉</b> 与
-<b>3D 生物医学图像处理</b>。
+Focused on <b>Computer Vision</b> and
+<b>3D Biomedical Image Processing</b>.
 </p>
 
 <p>
-🔬 熟悉大规模组织图像处理算法、3D 渲染与图像处理框架开发。<br>
-🎯 热衷于开源探索与水资源 3D 可视化工具构建。<br>
-🚀 关注算法、工程实现与交互式可视化工具的结合。
+🔬 Experienced in large-scale tissue image processing algorithms, 3D rendering, and image processing framework development.<br>
+🎯 Passionate about open-source exploration and 3D visualization tool development for water resources.<br>
+🚀 Interested in the integration of algorithms, engineering implementation, and interactive visualization tools.
 </p>
 
 <p>
@@ -114,50 +116,50 @@ zhangsan414141@gmail.com
 
 <td width="33%" valign="top">
 
-<h3 align="center">🎯 研究方向 / Research Focus</h3>
+<h3 align="center">🎯 Research Focus</h3>
 <br>
-📷 <b>计算机视觉</b>
+📷 <b>Computer Vision</b>
 <br><br>
-🧊 <b>3D 生物医学图像处理</b>
+🧊 <b>3D Biomedical Image Processing</b>
 <br><br>
-🔬 <b>大规模组织图像处理与分析</b>
+🔬 <b>Large-Scale Tissue Image Processing and Analysis</b>
 <br><br>
-🖥️ <b>3D 渲染与可视化</b>
+🖥️ <b>3D Rendering and Visualization</b>
 <br><br>
-💻 <b>图像处理与算法开发</b>
+💻 <b>Image Processing and Algorithm Development</b>
 <br><br>
-🐙 <b>开源探索与工具开发</b>
+🐙 <b>Open-Source Exploration and Tool Development</b>
 </td>
 
 
 <td width="34%" valign="top">
 
-<h3 align="center">🧰 技术栈 / Tech Stack</h3>
+<h3 align="center">🧰 Tech Stack</h3>
 
 <br>
 
-<b>💻 编程语言</b>
+<b>💻 Programming Languages</b>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-<b>🧠 深度学习 / CV</b>
+<b>🧠 Deep Learning / CV</b>
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
 
-<b>🛠️ 开发框架</b>
+<b>🛠️ Development Frameworks</b>
 
 <p>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
 </p>
 
-<b>⚙️ 工具与平台</b>
+<b>⚙️ Tools and Platforms</b>
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -169,17 +171,17 @@ zhangsan414141@gmail.com
 
 <td width="33%" valign="top">
 
-<h3 align="center">🚀 我正在做 / Currently Working On</h3>
+<h3 align="center">🚀 Currently Working On</h3>
 <br>
-💧 <b>资源三维可视化工具开发</b>
+💧 <b>3D Visualization Tool Development for Water Resources</b>
 <br><br>
-🧠 <b>大规模生物组织图像处理算法</b>
+🧠 <b>Large-Scale Biological Tissue Image Processing Algorithms</b>
 <br><br>
-🧊 <b>交互式 3D 渲染与图像处理框架</b>
+🧊 <b>Interactive 3D Rendering and Image Processing Frameworks</b>
 <br><br>
-🔗 <b>基于深度学习的图像分析方法</b>
+🔗 <b>Deep Learning-Based Image Analysis Methods</b>
 <br><br>
-🐙 <b>开源项目与工具链构建</b>
+🐙 <b>Open-Source Projects and Toolchain Development</b>
 </td>
 
 </tr>
@@ -192,7 +194,7 @@ zhangsan414141@gmail.com
 
 <td width="45%" valign="middle">
 
-<h3>✉️ 联系我 / Contact</h3>
+<h3>✉️ Contact</h3>
 
 <p>
 📧 &nbsp;<b>Email:</b>&nbsp;
@@ -215,7 +217,7 @@ zhangsan414141@gmail.com
 
 
 <blockquote>
-<h3>💬用代码探索世界，用可视化理解复杂。</h3>
+<h3>💬 Explore the world with code, understand the complex with visualization.</h3>
 
 <i>
 Explore the world with code, understand the complex with visualization.
@@ -239,10 +241,4 @@ Explore the world with code, understand the complex with visualization.
 <p align="center">
   <i>Keep exploring. Keep building. 🚀</i>
 </p>
-
-
-
-
-
-
-
+```
