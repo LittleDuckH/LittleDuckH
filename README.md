@@ -25,7 +25,7 @@
 <h2>🛠️ 关于我 / About Me</h2>
 
 <p>
-专注于 <b>计算机视觉（Computer Vision）</b> 与
+专注于 <b>计算机视觉</b> 与
 <b>3D 生物医学图像处理</b>。
 </p>
 
@@ -164,7 +164,7 @@ zhangsan414141@gmail.com
 
 
 <blockquote>
-<b>💬用代码探索世界，用可视化理解复杂。</b>
+<h3>💬用代码探索世界，用可视化理解复杂。</h3>
 <br><br>
 <i>
 Explore the world with code, understand the complex with visualization.
