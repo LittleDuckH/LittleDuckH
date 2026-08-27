@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋 I'm LittleDuckH
 
 <!--
 ![Demo](gif/test1.gif)
 -->
 
-# Hi there 👋 I'm LittleDuckH
+
 
 ### 🧠 Computer Vision · 🔬 Biomedical Imaging · 🧊 3D Visualization
 
