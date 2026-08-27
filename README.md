@@ -66,16 +66,15 @@ zhangsan414141@gmail.com
 <h3 align="center">🎯 研究方向 / Research Focus</h3>
 <br>
 📷 <b>计算机视觉</b>
-
-<br>
+<br><br>
 🧊 <b>3D 生物医学图像处理</b>
-<br>
+<br><br>
 🔬 <b>大规模组织图像处理与分析</b>
-<br>
+<br><br>
 🖥️ <b>3D 渲染与可视化</b>
-<br>
+<br><br>
 💻 <b>图像处理与算法开发</b>
-<br>
+<br><br>
 🐙 <b>开源探索与工具开发</b>
 </td>
 
