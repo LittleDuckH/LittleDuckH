@@ -66,12 +66,10 @@ zhangsan414141@gmail.com
 <br>
 
 📷 **计算机视觉**  
-Computer Vision
 
 <br>
 
 🧊 **3D 生物医学图像处理**  
-3D Biomedical Imaging
 
 <br>
 
