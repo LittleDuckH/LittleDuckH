@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  ### Welcome to my GitHub Profile!
+  ### Welcome to my GitHub Profile!<br>
   📷 <b>Computer Vision</b>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   🧊 <b>3D Biomedical Imaging</b>
@@ -69,10 +69,6 @@ zhangsan414141@gmail.com
 
 <div align="center">
 
-
-
-<br/>
-
 <!-- ==================== Profile Details ==================== -->
 
 <img
@@ -96,7 +92,7 @@ zhangsan414141@gmail.com
   alt="Top Languages by Commit"
 />
 
-<br/>
+<br>
 
 <!-- ==================== Stats & Productive Time ==================== -->
 
