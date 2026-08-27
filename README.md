@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi, I'm LittleDuckH 👋</h1>
 
-### Welcome to my GitHub Profile!
+
 <p align="center">
+  ### Welcome to my GitHub Profile!
   📷 <b>Computer Vision</b>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   🧊 <b>3D Biomedical Imaging</b>
@@ -80,7 +81,7 @@ zhangsan414141@gmail.com
   alt="LittleDuckH Profile Details"
 />
 
-<br/><br/>
+<br/>
 
 <!-- ==================== Languages ==================== -->
 
@@ -95,7 +96,7 @@ zhangsan414141@gmail.com
   alt="Top Languages by Commit"
 />
 
-<br/><br/>
+<br/>
 
 <!-- ==================== Stats & Productive Time ==================== -->
 
