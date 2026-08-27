@@ -25,6 +25,18 @@
   </tr>
 </table>
 
+<p align="left">
+  <img src="gif/test1.gif" width="200" align="left" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>🛠️ 关于我 / About Me</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 专注于 <b>计算机视觉 (Computer Vision)</b> 与 <b>3D 生物医学图像处理</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔬 擅长处理 <b>大规模组织成像算法、3D 渲染与管线开发</b><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ 熟练使用 <code>Python</code> | <code>C++</code> | <code>PyTorch</code> | <code>OpenCV</code> | <code>Qt</code> | <code>ROS</code><br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎯 热衷于开源探索与交互式 3D 视觉工具构建
+</p>
+
+<br clear="both" />
+
+
 ### 🧰 技术栈 / Tech Stack
 
 <p align="left">
