@@ -4,19 +4,24 @@
 ![Demo](gif/test1.gif)
 -->
 
-<p align="left">
-  <img src="gif/test1.gif" width="160" align="left" style="margin-right: 25px;" />
-</p>
-
-### 🛠️ 关于我 / About Me
-
-- 💻 专注于 **计算机视觉 (Computer Vision)** 与 **3D 生物医学图像处理**
-- 🔬 擅长处理 **大规模组织成像算法、3D 渲染与管线开发**
-- 🛠️ 熟练使用 `Python` | `C++` | `PyTorch` | `OpenCV` | `Qt` | `ROS`
-- 🎯 热衷于开源探索与交互式 3D 视觉工具构建
-
-<br clear="both" />
-
+<table border="0">
+  <tr>
+    <td width="260" align="center" valign="middle">
+      <!-- 调整 width="220" 可以控制 GIF 的显示大小 -->
+      <img src="gif/test1.gif" width="220" />
+    </td>
+    <td width="30"></td> <!-- 这是一个用于拉开左右间距的空列 -->
+    <td valign="middle">
+      <h3>🛠️ 关于我 / About Me</h3>
+      <ul>
+        <li>💻 专注于 <b>计算机视觉 (Computer Vision)</b> 与 <b>3D 生物医学图像处理</b></li>
+        <li>🔬 擅长处理 <b>大规模组织成像算法、3D 渲染与管线开发</b></li>
+        <li>🛠️ 熟练使用 <code>Python</code> | <code>C++</code> | <code>PyTorch</code> | <code>OpenCV</code> | <code>Qt</code> | <code>ROS</code></li>
+        <li>🎯 热衷于开源探索与交互式 3D 视觉工具构建</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🧰 技术栈 / Tech Stack
@@ -36,9 +41,7 @@
 
 ### 📊 GitHub 统计 / Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDuckH&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true&count_private=true)
 
 
 <!--
