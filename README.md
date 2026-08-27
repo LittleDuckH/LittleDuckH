@@ -16,7 +16,7 @@
 
 <td width="34%" valign="middle" align="center">
 
-<img src="gif/test1.gif" width="300" />
+<img src="gif/test1.gif" width="320" />
 
 </td>
 
