@@ -165,7 +165,7 @@ zhangsan414141@gmail.com
 
 <blockquote>
 <h3>💬用代码探索世界，用可视化理解复杂。</h3>
-<br><br>
+
 <i>
 Explore the world with code, understand the complex with visualization.
 </i>
