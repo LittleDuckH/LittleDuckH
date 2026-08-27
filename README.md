@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi, I'm LittleDuckH 👋</h1>
 
 <p align="center">
@@ -325,4 +325,4 @@ Explore the world with code, understand the complex with visualization.
 <p align="center">
   <i>Keep exploring. Keep building. 🚀</i>
 </p>
-```
+
