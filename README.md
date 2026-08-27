@@ -176,6 +176,12 @@ Explore the world with code, understand the complex with visualization.
 </tr>
 </table>
 
+
+### 📈 Stats
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=LittleDuckH&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"
+       alt="LittleDuckH's GitHub stats" />
+</p>
 ---
 
 <p align="center">
