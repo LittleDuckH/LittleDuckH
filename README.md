@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi, I'm LittleDuckH 👋</h1>
-
 
 <p align="center">
   Welcome to my GitHub Profile!<br>
