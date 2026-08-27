@@ -5,7 +5,7 @@
 -->
 
 <p align="left">
-  <img src="gif/test1.gif" width="320" align="left" style="margin-right: 25px;" />
+  <img src="gif/test1.gif" width="160" align="left" style="margin-right: 25px;" />
 </p>
 
 ### 🛠️ 关于我 / About Me
@@ -36,10 +36,9 @@
 
 ### 📊 GitHub 统计 / Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDuckH&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LittleDuckH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleDuckH&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 
 <!--
