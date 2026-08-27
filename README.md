@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  ### Welcome to my GitHub Profile!<br>
+  Welcome to my GitHub Profile!<br>
   📷 <b>Computer Vision</b>
   &nbsp;&nbsp; | &nbsp;&nbsp;
   🧊 <b>3D Biomedical Imaging</b>
