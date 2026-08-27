@@ -121,13 +121,13 @@ zhangsan414141@gmail.com
 <h3 align="center">🚀 我正在做 / Currently Working On</h3>
 <br>
 💧 <b>资源三维可视化工具开发</b>
-<br>
+<br><br>
 🧠 <b>大规模生物组织图像处理算法</b>
-<br>
+<br><br>
 🧊 <b>交互式 3D 渲染与图像处理框架</b>
-<br>
+<br><br>
 🔗 <b>基于深度学习的图像分析方法</b>
-<br>
+<br><br>
 🐙 <b>开源项目与工具链构建</b>
 </td>
 
