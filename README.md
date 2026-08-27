@@ -196,3 +196,54 @@ Explore the world with code, understand the complex with visualization.
   <i>Keep exploring. Keep building. 🚀</i>
 </p>
 
+```html
+<div align="center">
+
+# 👋 Hi, I'm LittleDuckH
+
+### Welcome to my GitHub Profile!
+
+<br/>
+
+<!-- ==================== Profile Details ==================== -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleDuckH&theme=default"
+  width="100%"
+  alt="LittleDuckH Profile Details"
+/>
+
+<br/><br/>
+
+<!-- ==================== Languages ==================== -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittleDuckH&theme=default"
+  width="49%"
+  alt="Top Languages by Repo"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LittleDuckH&theme=default"
+  width="49%"
+  alt="Top Languages by Commit"
+/>
+
+<br/><br/>
+
+<!-- ==================== Stats & Productive Time ==================== -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittleDuckH&theme=default"
+  width="49%"
+  alt="GitHub Stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LittleDuckH&theme=default&utcOffset=8"
+  width="49%"
+  alt="GitHub Productive Time"
+/>
+
+</div>
+```
+
+
