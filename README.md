@@ -71,28 +71,17 @@ zhangsan414141@gmail.com
 
 📷 **计算机视觉**  
 Computer Vision
-
 <br>
-
 🧊 **3D 生物医学图像处理**  
 3D Biomedical Imaging
-
 <br>
-
 🔬 **大规模组织图像处理与分析**
-
 <br>
-
 🖥️ **3D 渲染与可视化**
-
 <br>
-
 💻 **图像处理与算法开发**
-
 <br>
-
 🐙 **开源探索与工具开发**
-
 </td>
 
 
@@ -103,28 +92,21 @@ Computer Vision
 <br>
 
 **💻 编程语言**
-
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
-
 **🧠 深度学习 / CV**
-
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 </p>
-
 **🛠️ 开发框架**
-
 <p>
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
 </p>
-
 **⚙️ 工具与平台**
-
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -140,23 +122,14 @@ Computer Vision
 <br>
 
 💧 **水资源三维可视化工具开发**
-
 <br>
-
 🧠 **大规模生物组织图像处理算法**
-
 <br>
-
 🧊 **交互式 3D 渲染与图像处理框架**
-
 <br>
-
 🔗 **基于深度学习的图像分析方法**
-
 <br>
-
 🐙 **开源项目与工具链构建**
-
 </td>
 </table>
 <table>
@@ -167,15 +140,12 @@ Computer Vision
 <h3>✉️ 联系我 / Contact</h3>
 
 📧 **Email**
-
 <a href="mailto:zhangsan414141@gmail.com">
 zhangsan414141@gmail.com
 </a>
 
 <br><br>
-
 🐙 **GitHub**
-
 <a href="https://github.com/LittleDuckH">
 @LittleDuckH
 </a>
