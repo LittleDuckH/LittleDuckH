@@ -1,14 +1,8 @@
-# Hi there 👋 I'm LittleDuckH
+<h1 align="center">Hi, I'm LittleDuckH 👋</h1>
 
 <!--
 ![Demo](gif/test1.gif)
 -->
-
-
-
-
-
-<h1 align="center">Hi, I'm LittleDuckH 👋</h1>
 
 <p align="center">
   📷 <b>Computer Vision</b>
@@ -165,11 +159,6 @@ Computer Vision
 
 </td>
 
-</tr>
-</table>
-
-<table>
-<tr>
 
 <td width="45%" valign="top">
 
