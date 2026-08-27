@@ -58,12 +58,14 @@ zhangsan414141@gmail.com
 
 ---
 
-<table align="center" width="90%">
+<table align="center" width="100%">
 <tr>
 
 <td width="33%" valign="top">
 
-<h3 align="center">🎯 研究方向 / Research Focus</h3>
+<p align="center" nowrap>
+  <big><b>🎯 研究方向 / Research Focus</b></big>
+</p>
 
 <br>
 
@@ -92,9 +94,11 @@ zhangsan414141@gmail.com
 </td>
 
 
-<td width="34%" valign="top">
+<td width="32%" valign="top">
 
-<h3 align="center">🧰 技术栈 / Tech Stack</h3>
+<p align="center" nowrap>
+  <big><b>🧰 技术栈 / Tech Stack</b></big>
+</p>
 
 <br>
 
@@ -129,9 +133,11 @@ zhangsan414141@gmail.com
 </td>
 
 
-<td width="33%" valign="top">
+<td width="35%" valign="top">
 
-<h3 align="center">🚀 我正在做 / Currently Working On</h3>
+<p align="center" nowrap>
+  <big><b>🚀 我正在做 / Currently Working On</b></big>
+</p>
 
 <br>
 
@@ -157,7 +163,6 @@ zhangsan414141@gmail.com
 
 </tr>
 </table>
-
 
 
 <table align="center" width="90%">
