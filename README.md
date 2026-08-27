@@ -196,7 +196,9 @@ Explore the world with code, understand the complex with visualization.
   <i>Keep exploring. Keep building. 🚀</i>
 </p>
 
-```html
+
+
+
 <div align="center">
 
 # 👋 Hi, I'm LittleDuckH
@@ -244,6 +246,6 @@ Explore the world with code, understand the complex with visualization.
 />
 
 </div>
-```
+
 
 
