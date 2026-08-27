@@ -42,11 +42,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" />
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
-### 📈 Stats
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=LittleDuckH&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"
-       alt="LittleDuckH's GitHub stats" />
-</p>
+
 </p>
 
 <p>
